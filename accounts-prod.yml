@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Welcome to EazyBank accounts related Production(edited for cloud bus act) APIs "
+  message: "Welcome to EazyBank accounts related Production(edited for spring cloud config monitor using webhooks) APIs "
   contactDetails:
     name: "Super Man - Product Manager"
     email: "superman@eazybank.com"
